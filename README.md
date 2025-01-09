@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there! I'm Erfan Kazemian 👋✨<br><br>I'm 20 years old and a passionate software developer with a strong focus on clean code, problem-solving, and building scalable backend systems.<br><br>💡 Previously:<br>I worked on IoT-based projects and smart factory management systems, focusing on optimizing processes and creating efficient solutions.<br><br>🌆 Currently:<br>I'm diving into smart city projects, exploring innovative ways to integrate technology into urban environments to make cities smarter and more sustainable.<br><br>🛠️ My Skills<br>Backend Development:<br>Proficient in Django and Django Rest Framework (DRF) for building robust APIs and backend services.<br><br>Database Management:<br>🗄️ Experienced in working with PostgreSQL for relational databases and comfortable with database design and optimization.<br><br>DevOps & Deployment:<br>🐳 Skilled in Docker for containerized development and deployments.<br>🌐 Experience with setting up and configuring Nginx and SSL certificates for production environments.<br><br>Testing & Quality Assurance:<br>✅ Strong advocate of testing, with hands-on experience in writing clean and maintainable unit tests and API tests.<br><br>Version Control & Collaboration:<br>🤝 Proficient with Git and collaborative tools like GitLab and GitHub.<br><br>💭 Core Values<br>🧹 Writing clean, maintainable code.<br>📚 Continuously learning and improving.<br>🚀 Focusing on efficiency and scalability in every project.<br>Let’s create something amazing together! 🌟
 
-<!--
-**Erfan5972/Erfan5972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__efran_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erfan-kazemian/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Erfan5972&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Erfan5972&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan5972&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Erfan5972&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
